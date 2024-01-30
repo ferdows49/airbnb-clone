@@ -1,7 +1,6 @@
-import Image from "next/image";
-
 export default function Home() {
-  return (
-    <h1>Airbnb clone....</h1>
-  );
+    return (
+        <div className="bg-black text-8xl"><h1 className="text-gray-800">aaa</h1>
+        </div>
+    );
 }
